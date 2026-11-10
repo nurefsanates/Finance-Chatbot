@@ -1,0 +1,12 @@
+langchain
+langchain-core
+langchain-text-splitters
+langchain-google-genai
+langgraph
+langchain-huggingface
+langchain-chroma
+sentence-transformers
+python-docx
+python-dotenv
+matplotlib
+streamlit

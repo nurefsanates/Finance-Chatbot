@@ -1,0 +1,9 @@
+.env
+*.db
+chroma_langchain_db/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+!data/portfolio.db
